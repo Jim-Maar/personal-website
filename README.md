@@ -15,9 +15,10 @@ This will become my personal website. I don't have any web-dev experience, so le
 ### Basics
 - [x] Create a simple HTML file.
 - [x] Create a simple HTML file with some CSS.
+- [x] Add CSS as a stylesheet.
 - [x] Get this website to run on my local machine.
   - **Useful link:** [Live Server for VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [ ] Add some tabs to navigate between the pages.
+- [x] Add some tabs to navigate between the pages.
 
 ---
 
